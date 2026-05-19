@@ -25,6 +25,6 @@
   Android‑приложение для учёта коммунальных платежей (используется реальными людьми).
 
 ### 📫 Контакты
-- Telegram: @ByPeAl  
+- Telegram: https://t.me/ByPeAl  
 - Email: petr.bychuk@gmail.com  
 - GitHub: [5etrovich](https://github.com/5etrovich)
