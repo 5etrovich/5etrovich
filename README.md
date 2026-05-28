@@ -12,23 +12,27 @@
 ### 🛠️ Стек
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,kotlin,docker,git,linux,bash,fastapi,flask,postgres,githubactions" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,docker,git,linux,bash,githubactions" />
 </div>
 
 <br/>
 
 | Категория | Технологии |
 |-----------|------------|
-| **Языки** | Python (advanced), C++ (C++98–C++20, intermediate), Kotlin (basics) |
-| **Python-стек** | FastAPI, Flask, aiogram, Selenium, requests, BeautifulSoup, pandas |
+| **Языки** | Python (advanced), C++ (C++98–C++20, intermediate) |
+| **Python-стек** | aiogram, Selenium, requests, BeautifulSoup, pandas |
 | **C++-стек** | STL, Google Test, Gcovr, Cppcheck, ASan/UBSan |
 | **DevOps / CI/CD** | GitHub Actions, Woodpecker CI, CMake, Docker (basics), Git |
-| **Базы данных** | SQL (PostgreSQL, MySQL – базово) |
 | **Linux** | Ubuntu, bash, systemd, cron, SSH, VPS |
 
 ---
 
 ### 📁 Проекты
+
+#### 🔹 [rle-cpp](https://github.com/5etrovich/rle-cpp)
+[![CI](https://github.com/5etrovich/rle-cpp/actions/workflows/ci.yml/badge.svg)](https://github.com/5etrovich/rle-cpp/actions/workflows/ci.yml)
+
+Консольная утилита сжатия/разжатия файлов на C++ алгоритмом RLE (Run-Length Encoding). Поддержка любых бинарных файлов, CMake сборка.
 
 #### 🔹 [bwt-rle-compress](https://github.com/5etrovich/bwt-rle-compress)
 [![CI](https://github.com/5etrovich/bwt-rle-compress/actions/workflows/ci.yml/badge.svg)](https://github.com/5etrovich/bwt-rle-compress/actions/workflows/ci.yml)
