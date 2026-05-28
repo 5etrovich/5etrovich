@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=520&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20%D0%9F%D1%91%D1%82%D1%80%20%D0%91%D1%8B%D1%87%D1%83%D0%BA;Python%20%2F%20C%2B%2B%20%2F%20DevOps;%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%20%D0%9D%D0%98%D0%A3%20%D0%92%D0%A8%D0%AD%20%D0%9C%D0%98%D0%AD%D0%9C" alt="Typing SVG" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=5etrovich&color=58A6FF&style=flat-square&label=просмотров" />
 </div>
 
 <br/>
