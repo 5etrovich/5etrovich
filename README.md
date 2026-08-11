@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=520&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20%D0%9F%D1%91%D1%82%D1%80%20%D0%91%D1%8B%D1%87%D1%83%D0%BA;Python%20%2F%20C%2B%2B%20%2F%20DevOps;%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%20%D0%9D%D0%98%D0%A3%20%D0%92%D0%A8%D0%AD%20%D0%9C%D0%98%D0%AD%D0%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&width=520&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20%D0%9F%D1%91%D1%82%D1%80%20%D0%91%D1%8B%D1%87%D1%83%D0%BA%3BAppSec%20Engineer%20%D0%B2%20VK%3B%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%202%20%D0%BA%D1%83%D1%80%D1%81%D0%B0%20%D0%9D%D0%98%D0%A3%20%D0%92%D0%A8%D0%AD%20%D0%9C%D0%98%D0%AD%D0%9C" alt="Typing SVG" />
 </div>
 
 <br/>
 
-Студент 1 курса **НИУ ВШЭ (МИЭМ)**, компьютерная безопасность.  
-Ищу стажировку (Python / C++ / DevOps) | 20 ч/нед | удалённо / гибрид
+AppSec Engineer в **VK**.  
+Студент 2 курса **НИУ ВШЭ (МИЭМ)**, компьютерная безопасность.
 
 ---
 
@@ -85,4 +85,4 @@ Android-приложение (Kotlin) для учёта коммунальных
 - 🧠 Быстро учусь: за 2 недели освоил GitHub Actions и настроил CI для трёх проектов
 - 🐧 Ежедневно работаю в Linux (Ubuntu на VPS, bash-скрипты, systemd)
 - 🤖 Использую AI (Claude, ChatGPT) для ускорения разработки, но всегда контролирую результат
-- 🎯 Цель: получить оффер на стажировку в инфраструктурную / платформенную команду
+- 🎯 Работаю в AppSec VK, продолжаю расти в security / DevOps
